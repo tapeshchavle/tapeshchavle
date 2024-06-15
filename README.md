@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tapeshchavle&label=Profile%20views&color=0e75b6&style=flat" alt="tapeshchavle" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot Framework**
+- 🌱 I’m currently learning **Spring & Spring Boot Framework**
 
 - 💬 Ask me about **Java JS DSA**
 
