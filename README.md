@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tapesh Chavle</h1>
 <h3 align="center">I am full stack Java web Developer.</h3><h3 align="center">I am passionate backend developer and interested in Data Structure and Algorithms</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tapeshchavle&label=Profile%20views&color=0e75b6&style=flat" alt="tapesh_chavle" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tapeshchavle&label=Profile%20views&color=0e75b6&style=flat" alt="tapesh chavle" /> </p>
 
 - 🌱 I’m currently learning **Spring & Spring Boot Framework**
 
