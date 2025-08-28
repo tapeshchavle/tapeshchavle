@@ -86,13 +86,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tapeshchavle&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
----
-
-## 🎯 Fun Extras  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
