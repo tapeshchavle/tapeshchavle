@@ -1,30 +1,101 @@
-<h1 align="center">Hi 👋, I'm Tapesh Chavle</h1>
-<h3 align="center">I am full stack Java Spring Boot web Developer.</h3><h3 align="center">I am passionate backend developer and interested in Data Structure and Algorithms</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tapeshchavle&label=Profile%20views&color=0e75b6&style=flat" alt="tapesh chavle" /> </p>
+<!-- ⚡ Next-Gen GitHub Profile README for Tapesh Chavle -->
 
-- 🌱 I’m currently working on **MicroService architecture Based Project**
-
-- 💬 Ask me about **Java JS DSA**
-
-- 📫 How to reach me **tapeshchawle@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/tapesh-chavle-48656b23a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tapesh chavle" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tapeshchavle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tapeshchavle" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/tapeshc7nep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tapeshc7nep" height="30" width="40" /></a>
+<!-- Hero Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="github" width="40" height="40"/> </a>  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://as2.ftcdn.net/v2/jpg/02/50/30/59/1000_F_250305943_sDC6la1N1fDl3bLgfLxOkQwItIodsdMb.jpg" alt="spring" width="50" height="50"/> </a>
-  <a href="https://www.w3schools.com/xml/xml_whatis.asp" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/816/80/png-transparent-xml-filetype-icon-thumbnail.png" alt="xml" width="40" height="40"/> </a>
-   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" alt="tailwind" width="40" height="40"/> </a>
+<h1 align="center">🚀 Hi, I'm <span style="color:#00BFFF">Tapesh Chavle</span> 👋</h1>
+<h3 align="center">💻 Full Stack Java Spring Boot Developer | 🔬 Backend Engineer | ⚡ Cloud & DevOps Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tapeshchavle&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile views"/>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/tapesh-chavle-48656b23a/"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://leetcode.com/tapeshchavle"><img src="https://img.shields.io/badge/-LeetCode-black?style=for-the-badge&logo=leetcode"></a>
+  <a href="https://auth.geeksforgeeks.org/user/tapeshc7nep"><img src="https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks"></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tapeshchavle&show_icons=true&locale=en&layout=compact" alt="tapeshchavle" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=200&center=true&vCenter=true&width=700&lines=Backend+Engineer+specialized+in+Java+Spring+Boot;Passionate+about+System+Design+%26+DSA;Building+Scalable+Cloud+Solutions;DevOps+%7C+AWS+%7C+Docker+%7C+Kubernetes" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tapeshchavle&show_icons=true&locale=en" alt="tapeshchavle" /></p>
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tapeshchavle&" alt="tapeshchavle" /></p>
+---
+
+## 🌟 About Me  
+
+✨ I’m passionate about building **scalable backend systems** using **Java Spring Boot**.  
+🌱 Currently exploring **Cloud Architecture & DevOps** (AWS, Docker, Kubernetes).  
+📚 Strong in **Data Structures & Algorithms** and **System Design**.  
+💡 Goal: Become an architect of **enterprise-level distributed systems**.  
+
+---
+
+## 🛠 My Arsenal (Tech Stack)
+
+### 🚀 Backend & Programming
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,cpp,c,python,js" />
+</p>
+
+### 🎨 Frontend & Styling
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
+</p>
+
+### 🗄 Databases
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,oracle" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux" />
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+<p align="center">
+  <a href="https://github.com/tapeshchavle/T-Music">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tapeshchavle&repo=T-Music&theme=react&border_color=61dafb&border_radius=10" />
+  </a>
+  <a href="https://github.com/tapeshchavle/TechBlog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tapeshchavle&repo=TechBlog&theme=react&border_color=61dafb&border_radius=10" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tapeshchavle&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tapeshchavle&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tapeshchavle&theme=react-dark&hide_border=true&area=true" width="95%"/>
+</p>
+
+---
+
+## 🎯 Fun Extras  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+</p>
+
+⭐️ From [Tapesh Chavle](https://github.com/tapeshchavle)
