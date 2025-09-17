@@ -28,6 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tapeshchavle&show_icons=true&locale=en" alt="tapeshchavle" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tapeshchavle&" alt="tapeshchavle" /></p>  
-
-
-this is my previous github readme file . can you give me more advance and modern good lookin readme file where show my this skills basically I use the images of logos so you can use the icons , make the readme file more modern and highlight my skills add more skills there also like aws , docker , kubernetes etc
