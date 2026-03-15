@@ -1,30 +1,91 @@
-<h1 align="center">Hi 👋, I'm Tapesh Chavle</h1>
-<h3 align="center">I am full stack Java Spring Boot web Developer.</h3><h3 align="center">I am passionate backend developer and interested in Data Structure and Algorithms</h3>
+<!-- Header Section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Tapesh%20Chavle&fontSize=45&fontAlignY=38&desc=Full%20Stack%20Java%20Spring%20Boot%20Developer&descAlignY=55&descAlign=50" alt="Header" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tapeshchavle&label=Profile%20views&color=0e75b6&style=flat" alt="tapesh chavle" /> </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;Passionate+Backend+Engineer;Data+Structure+%26+Algorithms+Enthusiast" alt="Typing SVG" />
+</h1>
 
-- 🌱 I’m currently working on **MicroService architecture Based Project**
+<div align="center">
+  <a href="https://github.com/tapeshchavle">
+    <img src="https://komarev.com/ghpvc/?username=tapeshchavle&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github" alt="Profile Views" />
+  </a>
+</div>
 
-- 💬 Ask me about **Java JS DSA**
+<br/>
 
-- 📫 How to reach me **tapeshchawle@gmail.com**
+<!-- Social Media Links -->
+<div align="center">
+  <h3>Let's Connect 👋</h3>
+  <a href="https://www.linkedin.com/in/tapesh-chavle-48656b23a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tapeshchawle@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/tapeshchavle">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/tapeshc7nep">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/tapesh-chavle-48656b23a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tapesh chavle" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tapeshchavle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tapeshchavle" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/tapeshc7nep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tapeshc7nep" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="github" width="40" height="40"/> </a>  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://as2.ftcdn.net/v2/jpg/02/50/30/59/1000_F_250305943_sDC6la1N1fDl3bLgfLxOkQwItIodsdMb.jpg" alt="spring" width="50" height="50"/> </a>
-  <a href="https://www.w3schools.com/xml/xml_whatis.asp" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/816/80/png-transparent-xml-filetype-icon-thumbnail.png" alt="xml" width="40" height="40"/> </a>
-   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" alt="tailwind" width="40" height="40"/> </a>
-</p>
+<!-- About Me Section -->
+### 👨‍💻 About Me
 
+- 🌱 I’m currently working on **MicroService Architecture Based Projects**
+- 💡 I'm deeply passionate about **Java, Spring Boot, and robust Backend Development**
+- 🧠 Love solving complex challenges using **Data Structures and Algorithms**
+- 🚀 Expanding my knowledge and adapting to new technologies
+- ⚡ **Fun fact**: I love optimizing code and building highly scalable backend systems
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tapeshchavle&show_icons=true&locale=en&layout=compact" alt="tapeshchavle" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tapeshchavle&show_icons=true&locale=en" alt="tapeshchavle" /></p>
+<!-- Skills and Tools Section -->
+### 🛠️ Languages and Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tapeshchavle&" alt="tapeshchavle" /></p>  
+<div align="center">
+
+**🔥 Backend & Core Languages**<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,c,cpp,js&perline=10" alt="Backend and Languages" /><br/><br/>
+
+**🎨 Frontend & Design**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind&perline=10" alt="Frontend" /><br/><br/>
+
+**🧰 Tools & Version Control**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,idea,maven,postman&perline=10" alt="Tools" /><br/><br/>
+
+</div>
+
+<br/>
+
+<!-- GitHub Stats Section -->
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tapeshchavle&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tapeshchavle&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tapeshchavle&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="60%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tapeshchavle&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Activity Graph" width="98%" />
+</div>
+
+<br/>
+
+<!-- Footer Section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</div>
