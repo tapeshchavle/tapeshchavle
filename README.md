@@ -51,16 +51,18 @@
 <div align="center">
 
 **🔥 Backend & Core Languages**<br/>
-<img src="https://skillicons.dev/icons?i=java,spring,c,cpp,py,js,ts&perline=10" alt="Backend and Languages" /><br/>
+<img src="https://skillicons.dev/icons?i=java,spring,kafka,rabbitmq,c,cpp,py,js,ts&perline=10" alt="Backend and Languages" /><br/>
+<img src="https://img.shields.io/badge/Debezium-E00000?style=for-the-badge&logo=apache&logoColor=white" alt="Debezium" />
 <img src="https://img.shields.io/badge/Jakarta_EE-005C84?style=for-the-badge&logo=jakartaee&logoColor=white" alt="Jakarta EE" />
 <img src="https://img.shields.io/badge/XML-00609C?style=for-the-badge&logo=w3c&logoColor=white" alt="XML" /><br/><br/>
 
 **🎨 Frontend & Design**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react&perline=10" alt="Frontend" /><br/>
+<img src="https://skillicons.dev/icons?i=html,css,nextjs,react,bootstrap,tailwind&perline=10" alt="Frontend" /><br/>
 <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" /><br/><br/>
 
 **🛢️ Databases**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=10" alt="Databases" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=10" alt="Databases" /><br/>
+<img src="https://img.shields.io/badge/pgBouncer-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgBouncer" /><br/><br/>
 
 **☁️ Cloud & DevOps**<br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure&perline=10" alt="Cloud and DevOps" /><br/>
@@ -69,7 +71,8 @@
 
 **🧰 Tools, AI & Version Control**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,idea,maven,postman&perline=10" alt="Tools" /><br/>
-<img src="https://img.shields.io/badge/Generative_AI-21A366?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" /><br/><br/>
+<img src="https://img.shields.io/badge/Generative_AI-21A366?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI" /><br/><br/>
 
 </div>
 
@@ -79,14 +82,14 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tapeshchavle&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tapeshchavle&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tapeshchavle&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tapeshchavle&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=tapeshchavle&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="60%" />
 </div>
 
 <br/>
