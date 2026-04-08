@@ -42,7 +42,7 @@
 - 🧠 Love solving complex challenges using **Data Structures and Algorithms**
 - 🚀 Expanding my knowledge and adapting to new technologies
 - ⚡ **Fun fact**: I love optimizing code and building highly scalable backend systems
-- portfolio - <a href="https://auth.geeksforgeeks.org/user/tapeshc7nep">tapesh.me</a>
+- portfolio - <a href="https://www.tapesh.me">tapesh.me</a>
 
 <br/>
 
