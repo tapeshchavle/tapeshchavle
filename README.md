@@ -293,8 +293,7 @@ fun_fact: >
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=tapeshchavle&show_icons=true&theme=tokyonight&hide_border=true&layout=donut-vertical&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9" alt="Top Languages" width="38%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=tapeshchavle&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&langs_count=10" alt="Top Languages Compact" width="58%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=tapeshchavle&show_icons=true&theme=tokyonight&hide_border=true&layout=donut-vertical&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9" alt="Top Languages" width="45%" />
 </div>
 
 <br/>
