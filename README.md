@@ -2,7 +2,7 @@
 <!-- 🎨 ANIMATED HEADER WITH GRADIENT WAVE -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:0e75b6,75:1e90ff,100:00d4ff&height=280&section=header&text=Tapesh%20Chavle&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=🚀%20Full%20Stack%20Java%20%7C%20Spring%20Boot%20%7C%20Microservices%20%7C%20Cloud%20Native%20Engineer&descAlignY=55&descAlign=50&animation=fadeIn" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Tapesh%20Chavle&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=🚀%20Full%20Stack%20Java%20%7C%20Spring%20Boot%20%7C%20Microservices%20%7C%20Cloud%20Native%20Engineer&descAlignY=55&descAlign=50&animation=fadeIn" alt="Header" width="100%" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
@@ -307,7 +307,7 @@ fun_fact: >
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎯 FEATURED PROJECTS — CAROUSEL SHOWCASE -->
+<!-- 🎯 FEATURED PROJECTS — ACCORDION CAROUSEL -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">
@@ -315,23 +315,12 @@ fun_fact: >
   &nbsp;Featured Projects
 </h2>
 
-<!-- ═══ CAROUSEL NAVIGATION BAR ═══ -->
-<div align="center">
-  <a href="#-sentinai--ai-powered-api-security--project-1-of-5"><img src="https://img.shields.io/badge/01-SentinAI-0e75b6?style=flat-square" alt="01"/></a>&nbsp;
-  <a href="#-distributed-locking--concurrent-ticket-booking--project-2-of-5"><img src="https://img.shields.io/badge/02-Distributed_Locking-555?style=flat-square" alt="02"/></a>&nbsp;
-  <a href="#-notification-service--multi--channel-notifications--project-3-of-5"><img src="https://img.shields.io/badge/03-Notifications-555?style=flat-square" alt="03"/></a>&nbsp;
-  <a href="#-load-balancer--runtime-configurable-lb--project-4-of-5"><img src="https://img.shields.io/badge/04-Load_Balancer-555?style=flat-square" alt="04"/></a>&nbsp;
-  <a href="#-google-meet-clone--webrtc-video-conferencing--project-5-of-5"><img src="https://img.shields.io/badge/05-Google_Meet-555?style=flat-square" alt="05"/></a>
-</div>
+<p align="center"><i>👇 Click any project below to expand — only one visible at a time!</i></p>
 
+<!-- ━━━━━━━━━━━━━━━━━━━━━━ PROJECT 1: SentinAI ━━━━━━━━━━━━━━━━━━━━━━ -->
+<details open>
+<summary><b>🛡️ 01 &nbsp;│&nbsp; SentinAI — AI-Powered API Security for Spring Boot &nbsp;│&nbsp; <code>🚀 Published on Maven Central</code></b></summary>
 <br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  PROJECT 1 / 5 — SentinAI                                  ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-### 🛡️ SentinAI — AI-Powered API Security • `Project 1 of 5`
-
 <div align="center">
 
   <a href="https://github.com/tapeshchavle/sentinai">
@@ -351,26 +340,14 @@ fun_fact: >
   <img src="https://img.shields.io/badge/Maven_Central-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven Central" />
   <img src="https://img.shields.io/badge/API_Security-DC382D?style=for-the-badge&logo=springsecurity&logoColor=white" alt="API Security" />
 
-  <br/><br/>
-
-  <a href="#-google-meet-clone--webrtc-video-conferencing--project-5-of-5"><img src="https://img.shields.io/badge/◀_Previous-555555?style=for-the-badge" alt="Previous"/></a>
-  &nbsp;&nbsp;⬤ ○ ○ ○ ○&nbsp;&nbsp;
-  <a href="#-distributed-locking--concurrent-ticket-booking--project-2-of-5"><img src="https://img.shields.io/badge/Next_▶-0e75b6?style=for-the-badge" alt="Next"/></a>
-
 </div>
-
 <br/>
+</details>
 
----
-
+<!-- ━━━━━━━━━━━━━━━━━━━━━━ PROJECT 2: Distributed Locking ━━━━━━━━━━━━━━━━━━━━━━ -->
+<details>
+<summary><b>🎫 02 &nbsp;│&nbsp; Distributed Locking STOMP — High-Performance Ticket Booking System</b></summary>
 <br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  PROJECT 2 / 5 — Distributed Locking STOMP                 ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-### 🎫 Distributed Locking — Concurrent Ticket Booking • `Project 2 of 5`
-
 <div align="center">
 
   <a href="https://github.com/tapeshchavle/distributed-locking-stomp">
@@ -392,26 +369,14 @@ fun_fact: >
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket" />
 
-  <br/><br/>
-
-  <a href="#-sentinai--ai-powered-api-security--project-1-of-5"><img src="https://img.shields.io/badge/◀_Previous-555555?style=for-the-badge" alt="Previous"/></a>
-  &nbsp;&nbsp;○ ⬤ ○ ○ ○&nbsp;&nbsp;
-  <a href="#-notification-service--multi--channel-notifications--project-3-of-5"><img src="https://img.shields.io/badge/Next_▶-0e75b6?style=for-the-badge" alt="Next"/></a>
-
 </div>
-
 <br/>
+</details>
 
----
-
+<!-- ━━━━━━━━━━━━━━━━━━━━━━ PROJECT 3: Notification Service ━━━━━━━━━━━━━━━━━━━━━━ -->
+<details>
+<summary><b>🔔 03 &nbsp;│&nbsp; Notification Service — Multi-Channel Production-Grade Notifications</b></summary>
 <br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  PROJECT 3 / 5 — Notification Service                      ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-### 🔔 Notification Service — Multi-Channel Notifications • `Project 3 of 5`
-
 <div align="center">
 
   <a href="https://github.com/tapeshchavle/notification-service">
@@ -433,26 +398,14 @@ fun_fact: >
   <img src="https://img.shields.io/badge/Priority_Queue-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Queue" />
   <img src="https://img.shields.io/badge/Retry_Logic-795548?style=for-the-badge&logo=resilience4j&logoColor=white" alt="Retry" />
 
-  <br/><br/>
-
-  <a href="#-distributed-locking--concurrent-ticket-booking--project-2-of-5"><img src="https://img.shields.io/badge/◀_Previous-555555?style=for-the-badge" alt="Previous"/></a>
-  &nbsp;&nbsp;○ ○ ⬤ ○ ○&nbsp;&nbsp;
-  <a href="#-load-balancer--runtime-configurable-lb--project-4-of-5"><img src="https://img.shields.io/badge/Next_▶-0e75b6?style=for-the-badge" alt="Next"/></a>
-
 </div>
-
 <br/>
+</details>
 
----
-
+<!-- ━━━━━━━━━━━━━━━━━━━━━━ PROJECT 4: Load Balancer ━━━━━━━━━━━━━━━━━━━━━━ -->
+<details>
+<summary><b>⚖️ 04 &nbsp;│&nbsp; Load Balancer — Configurable Production-Grade Load Balancer in Java</b></summary>
 <br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  PROJECT 4 / 5 — Load Balancer                             ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-### ⚖️ Load Balancer — Runtime-Configurable LB • `Project 4 of 5`
-
 <div align="center">
 
   <a href="https://github.com/tapeshchavle/loadbalancer">
@@ -473,26 +426,14 @@ fun_fact: >
   <img src="https://img.shields.io/badge/High_Availability-4CAF50?style=for-the-badge&logo=kubernetes&logoColor=white" alt="HA" />
   <img src="https://img.shields.io/badge/Scalability-673AB7?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Scalability" />
 
-  <br/><br/>
-
-  <a href="#-notification-service--multi--channel-notifications--project-3-of-5"><img src="https://img.shields.io/badge/◀_Previous-555555?style=for-the-badge" alt="Previous"/></a>
-  &nbsp;&nbsp;○ ○ ○ ⬤ ○&nbsp;&nbsp;
-  <a href="#-google-meet-clone--webrtc-video-conferencing--project-5-of-5"><img src="https://img.shields.io/badge/Next_▶-0e75b6?style=for-the-badge" alt="Next"/></a>
-
 </div>
-
 <br/>
+</details>
 
----
-
+<!-- ━━━━━━━━━━━━━━━━━━━━━━ PROJECT 5: Google Meet Clone ━━━━━━━━━━━━━━━━━━━━━━ -->
+<details>
+<summary><b>📹 05 &nbsp;│&nbsp; Google Meet Clone — Real-Time Video Conferencing with WebRTC</b></summary>
 <br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  PROJECT 5 / 5 — Google Meet Clone                         ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-### 📹 Google Meet Clone — WebRTC Video Conferencing • `Project 5 of 5`
-
 <div align="center">
 
   <a href="https://github.com/tapeshchavle/webRtc">
@@ -513,13 +454,9 @@ fun_fact: >
   <img src="https://img.shields.io/badge/P2P-00BCD4?style=for-the-badge&logo=webrtc&logoColor=white" alt="P2P" />
   <img src="https://img.shields.io/badge/Screen_Share-7B1FA2?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Screen Sharing" />
 
-  <br/><br/>
-
-  <a href="#-load-balancer--runtime-configurable-lb--project-4-of-5"><img src="https://img.shields.io/badge/◀_Previous-555555?style=for-the-badge" alt="Previous"/></a>
-  &nbsp;&nbsp;○ ○ ○ ○ ⬤&nbsp;&nbsp;
-  <a href="#-sentinai--ai-powered-api-security--project-1-of-5"><img src="https://img.shields.io/badge/Next_▶-0e75b6?style=for-the-badge" alt="Next"/></a>
-
 </div>
+<br/>
+</details>
 
 <br/>
 
@@ -563,7 +500,7 @@ fun_fact: >
 <!-- 🌊 ANIMATED FOOTER WAVE -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0e75b6,100:0d1117&height=120&section=footer" alt="Footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" alt="Footer" width="100%" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
