@@ -113,10 +113,10 @@ fun_fact: >
 <details open>
 <summary><h3>💻 Programming Languages</h3></summary>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,js,ts,py&perline=10" alt="Languages" /><br/>
   <img src="https://img.shields.io/badge/Java_8+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 8" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
@@ -127,7 +127,6 @@ fun_fact: >
 <details open>
 <summary><h3>⚙️ Backend & Frameworks</h3></summary>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,kafka,rabbitmq&perline=10" alt="Backend" /><br/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
@@ -136,6 +135,9 @@ fun_fact: >
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
   <img src="https://img.shields.io/badge/Jakarta_EE-005C84?style=for-the-badge&logo=jakartaee&logoColor=white" alt="Jakarta EE" />
   <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
   <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microdotblog&logoColor=white" alt="Microservices" />
@@ -159,10 +161,10 @@ fun_fact: >
 <details open>
 <summary><h3>🎨 Frontend & UI</h3></summary>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap,tailwind&perline=10" alt="Frontend" /><br/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" />
@@ -173,7 +175,6 @@ fun_fact: >
 <details open>
 <summary><h3>🛢️ Databases & Caching</h3></summary>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=10" alt="Databases" /><br/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -188,10 +189,10 @@ fun_fact: >
 <details open>
 <summary><h3>☁️ Cloud, DevOps & Infrastructure</h3></summary>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure&perline=10" alt="Cloud" /><br/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Amazon_ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon ECR" />
   <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" />
   <img src="https://img.shields.io/badge/Amazon_SNS-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon SNS" />
@@ -202,7 +203,6 @@ fun_fact: >
 <details open>
 <summary><h3>📊 Monitoring & Observability</h3></summary>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana&perline=10" alt="Monitoring" /><br/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 </div>
@@ -222,7 +222,6 @@ fun_fact: >
 <details open>
 <summary><h3>🧰 Developer Tools & Version Control</h3></summary>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,idea,maven,postman&perline=10" alt="Tools" /><br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
