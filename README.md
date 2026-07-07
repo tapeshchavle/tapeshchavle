@@ -270,6 +270,8 @@ fun_fact: >
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tapeshchavle/tapeshchavle/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/tapeshchavle/tapeshchavle/output/github-snake-dark.svg" width="100%" />
   </picture>
+  <br/>
+  <sub><i>⚠️ Snake requires a <a href="https://github.com/tapeshchavle/tapeshchavle/blob/main/.github/workflows/snake.yml">GitHub Actions workflow</a> — see below for setup instructions</i></sub>
 </div>
 
 <br/>
@@ -292,7 +294,7 @@ fun_fact: >
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=tapeshchavle&show_icons=true&theme=tokyonight&hide_border=true&layout=donut-vertical&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9" alt="Top Languages" width="38%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=tapeshchavle&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" width="58%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=tapeshchavle&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&langs_count=10" alt="Top Languages Compact" width="58%" />
 </div>
 
 <br/>
