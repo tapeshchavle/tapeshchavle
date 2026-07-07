@@ -307,7 +307,7 @@ fun_fact: >
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎯 FEATURED PROJECTS -->
+<!-- 🎯 FEATURED PROJECTS — INTERACTIVE SHOWCASE -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">
@@ -316,13 +316,143 @@ fun_fact: >
 </h2>
 
 <div align="center">
-  <a href="https://github.com/tapeshchavle/Foodingo">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tapeshchavle&repo=Foodingo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=00d4ff" alt="Foodingo" />
-  </a>
-  <a href="https://github.com/tapeshchavle/Combot">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tapeshchavle&repo=Combot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=00d4ff" alt="Combot" />
-  </a>
+  <img src="https://img.shields.io/badge/👇_Click_Each_Card_to_Explore-0e75b6?style=for-the-badge&logoColor=white" alt="Click to Explore" />
 </div>
+
+<br/>
+
+<!-- ─── PROJECT 1: SentinAI ─── -->
+<details open>
+<summary>
+  <h3>🛡️ 01 — SentinAI &nbsp;•&nbsp; AI-Powered API Security for Spring Boot &nbsp;
+    <a href="https://github.com/tapeshchavle/sentinai"><img src="https://img.shields.io/badge/↗_View_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+    &nbsp;<img src="https://img.shields.io/badge/🚀_Published_on_Maven_Central-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven Central"/>
+  </h3>
+</summary>
+<div align="center">
+  <br/>
+  <a href="https://github.com/tapeshchavle/sentinai">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tapeshchavle&repo=sentinai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=00d4ff" alt="SentinAI" />
+  </a>
+  <br/><br/>
+  <blockquote>
+    <b>🤖 AI-Powered API Security for Spring Boot — Just Add a Dependency.</b><br/>
+    SentinAI is a plug-and-play Spring Boot library that leverages artificial intelligence to detect and mitigate API security threats in real-time. It is <b>deployed on Sonatype Maven Central</b> — ready for production use in any Spring Boot application with a simple dependency addition.
+  </blockquote>
+  <br/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/AI%2FML-7B2D8B?style=for-the-badge&logo=openai&logoColor=white" alt="AI/ML" />
+  <img src="https://img.shields.io/badge/Maven_Central-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven Central" />
+  <img src="https://img.shields.io/badge/API_Security-DC382D?style=for-the-badge&logo=springsecurity&logoColor=white" alt="API Security" />
+  <br/><br/>
+</div>
+</details>
+
+<!-- ─── PROJECT 2: Distributed Locking STOMP ─── -->
+<details>
+<summary>
+  <h3>🎫 02 — Distributed Locking STOMP &nbsp;•&nbsp; High-Performance Ticket Booking System &nbsp;
+    <a href="https://github.com/tapeshchavle/distributed-locking-stomp"><img src="https://img.shields.io/badge/↗_View_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  </h3>
+</summary>
+<div align="center">
+  <br/>
+  <a href="https://github.com/tapeshchavle/distributed-locking-stomp">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tapeshchavle&repo=distributed-locking-stomp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=00d4ff" alt="Distributed Locking STOMP" />
+  </a>
+  <br/><br/>
+  <blockquote>
+    <b>🎟️ A high-performance, industry-standard ticket booking system</b> built with Spring Boot, React, Redis, MySQL, and RabbitMQ. This project demonstrates how to handle <b>massive concurrency</b> (e.g., thousands of people trying to book the same seat) using a <b>two-tier locking strategy</b> and <b>real-time updates via WebSocket/STOMP</b>.
+  </blockquote>
+  <br/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket" />
+  <br/><br/>
+</div>
+</details>
+
+<!-- ─── PROJECT 3: Notification Service ─── -->
+<details>
+<summary>
+  <h3>🔔 03 — Notification Service &nbsp;•&nbsp; Multi-Channel Production-Grade Notifications &nbsp;
+    <a href="https://github.com/tapeshchavle/notification-service"><img src="https://img.shields.io/badge/↗_View_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  </h3>
+</summary>
+<div align="center">
+  <br/>
+  <a href="https://github.com/tapeshchavle/notification-service">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tapeshchavle&repo=notification-service&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=00d4ff" alt="Notification Service" />
+  </a>
+  <br/><br/>
+  <blockquote>
+    <b>📬 A production-grade, scalable notification service</b> supporting <b>Email, SMS, Push, and In-App</b> channels with priority queuing, exponential backoff retry, scheduled delivery, and user preference management. Engineered for high throughput and reliability with intelligent routing, deduplication, and comprehensive delivery tracking across all notification channels.
+  </blockquote>
+  <br/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/SMS-25D366?style=for-the-badge&logo=twilio&logoColor=white" alt="SMS" />
+  <img src="https://img.shields.io/badge/Push_Notifications-4285F4?style=for-the-badge&logo=firebase&logoColor=white" alt="Push" />
+  <img src="https://img.shields.io/badge/Priority_Queue-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Priority Queue" />
+  <img src="https://img.shields.io/badge/Retry_Mechanism-795548?style=for-the-badge&logo=resilience4j&logoColor=white" alt="Retry" />
+  <br/><br/>
+</div>
+</details>
+
+<!-- ─── PROJECT 4: Load Balancer ─── -->
+<details>
+<summary>
+  <h3>⚖️ 04 — Load Balancer &nbsp;•&nbsp; Configurable Production-Grade Load Balancer in Java &nbsp;
+    <a href="https://github.com/tapeshchavle/loadbalancer"><img src="https://img.shields.io/badge/↗_View_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  </h3>
+</summary>
+<div align="center">
+  <br/>
+  <a href="https://github.com/tapeshchavle/loadbalancer">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tapeshchavle&repo=loadbalancer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=00d4ff" alt="Load Balancer" />
+  </a>
+  <br/><br/>
+  <blockquote>
+    <b>⚡ A production-grade, configurable Load Balancer</b> built in Java / Spring Boot that demonstrates deep understanding of <b>networking, high availability, and system scalability</b>. The system allows <b>runtime algorithm selection</b> via a simple property change or API call — supporting Round Robin, Weighted, Least Connections, and more.
+  </blockquote>
+  <br/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
+  <img src="https://img.shields.io/badge/High_Availability-4CAF50?style=for-the-badge&logo=kubernetes&logoColor=white" alt="HA" />
+  <img src="https://img.shields.io/badge/System_Scalability-673AB7?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Scalability" />
+  <br/><br/>
+</div>
+</details>
+
+<!-- ─── PROJECT 5: Google Meet Clone (WebRTC) ─── -->
+<details>
+<summary>
+  <h3>📹 05 — Google Meet Clone &nbsp;•&nbsp; Real-Time Video Conferencing with WebRTC &nbsp;
+    <a href="https://github.com/tapeshchavle/webRtc"><img src="https://img.shields.io/badge/↗_View_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  </h3>
+</summary>
+<div align="center">
+  <br/>
+  <a href="https://github.com/tapeshchavle/webRtc">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tapeshchavle&repo=webRtc&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=00d4ff" alt="WebRTC Google Meet" />
+  </a>
+  <br/><br/>
+  <blockquote>
+    <b>🎥 A Google Meet-inspired video conferencing application</b> built with WebRTC for peer-to-peer real-time communication. Features include <b>video/audio calls, screen sharing, chat messaging, and room management</b> — demonstrating mastery of real-time protocols, signaling servers, and modern web communication standards.
+  </blockquote>
+  <br/>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Real--Time-FF4081?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Real-Time" />
+  <img src="https://img.shields.io/badge/Peer--to--Peer-00BCD4?style=for-the-badge&logo=webrtc&logoColor=white" alt="P2P" />
+  <img src="https://img.shields.io/badge/Screen_Sharing-7B1FA2?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Screen Sharing" />
+  <br/><br/>
+</div>
+</details>
 
 <br/>
 
