@@ -98,15 +98,7 @@ fun_fact: >
 <br clear="both"/>
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 GITHUB TROPHIES -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=tapeshchavle&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="90%" />
-</div>
 
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 🛠️ TECH STACK — COMPREHENSIVE SKILL MATRIX -->
@@ -260,21 +252,7 @@ fun_fact: >
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🐍 CONTRIBUTION SNAKE ANIMATION -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <h3>🐍 Watch My Contributions Get Eaten!</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tapeshchavle/tapeshchavle/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tapeshchavle/tapeshchavle/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tapeshchavle/tapeshchavle/output/github-snake-dark.svg" width="100%" />
-  </picture>
-  <br/>
-  <sub><i>⚠️ Snake requires a <a href="https://github.com/tapeshchavle/tapeshchavle/blob/main/.github/workflows/snake.yml">GitHub Actions workflow</a> — see below for setup instructions</i></sub>
-</div>
 
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 📊 GITHUB STATS — ADVANCED ANALYTICS DASHBOARD -->
