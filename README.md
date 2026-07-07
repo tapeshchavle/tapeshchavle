@@ -309,7 +309,7 @@ fun_fact: >
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎯 FEATURED PROJECTS — ACCORDION CAROUSEL -->
+<!-- 🎯 FEATURED PROJECTS — ACCORDION SHOWCASE -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">
@@ -317,50 +317,58 @@ fun_fact: >
   &nbsp;Featured Projects
 </h2>
 
-<p align="center"><i>👇 Click any project below to expand — only one visible at a time!</i></p>
+<p align="center"><i>👇 Click any project to expand its details — collapse others for a cleaner view!</i></p>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ PROJECT 1: SentinAI ━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━ PROJECT 1: SentinAI ━━━━━━━━━━━━━━━━━━ -->
 <details open>
-<summary><b>🛡️ 01 &nbsp;│&nbsp; SentinAI — AI-Powered API Security for Spring Boot &nbsp;│&nbsp; <code>🚀 Published on Maven Central</code></b></summary>
+<summary><b>🛡️ 01 &nbsp;│&nbsp; SentinAI — AI-Powered API Security for Spring Boot &nbsp;│&nbsp; <code>🚀 Maven Central</code></b></summary>
 <br/>
 <div align="center">
 
   <a href="https://github.com/tapeshchavle/sentinai">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tapeshchavle&repo=sentinai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=00d4ff" alt="SentinAI" />
+    <img src="https://img.shields.io/badge/📂_View_Repository-tapeshchavle%2Fsentinai-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
   </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Published_on_Maven_Central-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven Central" />
 
   <br/><br/>
 
   > **🤖 AI-Powered API Security for Spring Boot — Just Add a Dependency.**
   > 
-  > A plug-and-play Spring Boot library that leverages AI to detect & mitigate API security threats in real-time. **Deployed on Sonatype Maven Central** — production-ready with a single dependency.
+  > SentinAI is a plug-and-play Spring Boot starter library that uses artificial intelligence to **detect, analyze, and mitigate API security threats in real-time**. It monitors incoming requests, identifies suspicious patterns like SQL injection, XSS, brute force attacks, and anomalous traffic — then automatically blocks or rate-limits malicious actors.
+  > 
+  > **🚀 Deployed on Sonatype Maven Central** — add it to any Spring Boot app with a single `<dependency>` in your `pom.xml`. Zero configuration required to get started.
 
   <br/>
 
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
   <img src="https://img.shields.io/badge/AI%2FML-7B2D8B?style=for-the-badge&logo=openai&logoColor=white" alt="AI/ML" />
   <img src="https://img.shields.io/badge/Maven_Central-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven Central" />
   <img src="https://img.shields.io/badge/API_Security-DC382D?style=for-the-badge&logo=springsecurity&logoColor=white" alt="API Security" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 
 </div>
 <br/>
 </details>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ PROJECT 2: Distributed Locking ━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━ PROJECT 2: Distributed Locking ━━━━━━━━━━━━━━━━━━ -->
 <details>
-<summary><b>🎫 02 &nbsp;│&nbsp; Distributed Locking STOMP — High-Performance Ticket Booking System</b></summary>
+<summary><b>🎫 02 &nbsp;│&nbsp; Distributed Locking STOMP — High-Concurrency Ticket Booking System</b></summary>
 <br/>
 <div align="center">
 
   <a href="https://github.com/tapeshchavle/distributed-locking-stomp">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tapeshchavle&repo=distributed-locking-stomp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=00d4ff" alt="Distributed Locking STOMP" />
+    <img src="https://img.shields.io/badge/📂_View_Repository-distributed--locking--stomp-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
   </a>
 
   <br/><br/>
 
-  > **🎟️ A high-performance, industry-standard ticket booking system** built with Spring Boot, React, Redis, MySQL & RabbitMQ.
+  > **🎟️ A high-performance, industry-standard ticket booking system** that solves one of the hardest problems in distributed computing: **handling thousands of users trying to book the same seat simultaneously**.
   > 
-  > Handles **massive concurrency** (thousands booking the same seat) using a **two-tier locking strategy** with **real-time updates via WebSocket/STOMP**.
+  > Built with **Spring Boot** (backend), **React** (frontend), **Redis** (distributed caching & locking), **MySQL** (persistent storage), and **RabbitMQ** (async event processing). Uses a **two-tier locking strategy** — Redis-based optimistic locks for speed, followed by database-level pessimistic locks for consistency.
+  > 
+  > Features **real-time seat status updates via WebSocket/STOMP** so all connected users instantly see when a seat gets booked.
 
   <br/>
 
@@ -369,98 +377,120 @@ fun_fact: >
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/WebSocket%2FSTOMP-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket" />
 
 </div>
 <br/>
 </details>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ PROJECT 3: Notification Service ━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━ PROJECT 3: Notification Service ━━━━━━━━━━━━━━━━━━ -->
 <details>
-<summary><b>🔔 03 &nbsp;│&nbsp; Notification Service — Multi-Channel Production-Grade Notifications</b></summary>
+<summary><b>🔔 03 &nbsp;│&nbsp; Notification Service — Multi-Channel Scalable Notification Engine</b></summary>
 <br/>
 <div align="center">
 
   <a href="https://github.com/tapeshchavle/notification-service">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tapeshchavle&repo=notification-service&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=00d4ff" alt="Notification Service" />
+    <img src="https://img.shields.io/badge/📂_View_Repository-notification--service-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
   </a>
 
   <br/><br/>
 
-  > **📬 A production-grade, scalable notification service** supporting **Email, SMS, Push & In-App** channels.
+  > **📬 A production-grade, enterprise-ready notification service** supporting **4 delivery channels: Email, SMS, Push Notifications, and In-App messaging**.
   > 
-  > Features priority queuing, exponential backoff retry, scheduled delivery, user preference management, intelligent routing, deduplication & comprehensive delivery tracking.
+  > Engineered for **high throughput and reliability** with:
+  > - **Priority Queuing** — urgent notifications bypass the queue and get delivered first
+  > - **Exponential Backoff Retry** — failed deliveries are automatically retried with increasing delays
+  > - **Scheduled Delivery** — queue notifications for future delivery at specific times
+  > - **User Preference Management** — users control which channels they receive notifications on
+  > - **Intelligent Routing & Deduplication** — prevents duplicate notifications and routes to the optimal channel
+  > - **Comprehensive Delivery Tracking** — full audit trail for every notification across all channels
 
   <br/>
 
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  <img src="https://img.shields.io/badge/SMS-25D366?style=for-the-badge&logo=twilio&logoColor=white" alt="SMS" />
-  <img src="https://img.shields.io/badge/Push-4285F4?style=for-the-badge&logo=firebase&logoColor=white" alt="Push" />
-  <img src="https://img.shields.io/badge/Priority_Queue-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Queue" />
-  <img src="https://img.shields.io/badge/Retry_Logic-795548?style=for-the-badge&logo=resilience4j&logoColor=white" alt="Retry" />
+  <img src="https://img.shields.io/badge/Email_(SMTP)-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/SMS_(Twilio)-25D366?style=for-the-badge&logo=twilio&logoColor=white" alt="SMS" />
+  <img src="https://img.shields.io/badge/Push_(FCM)-4285F4?style=for-the-badge&logo=firebase&logoColor=white" alt="Push" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
 </div>
 <br/>
 </details>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ PROJECT 4: Load Balancer ━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━ PROJECT 4: Load Balancer ━━━━━━━━━━━━━━━━━━ -->
 <details>
-<summary><b>⚖️ 04 &nbsp;│&nbsp; Load Balancer — Configurable Production-Grade Load Balancer in Java</b></summary>
+<summary><b>⚖️ 04 &nbsp;│&nbsp; Load Balancer — Runtime-Configurable Production Load Balancer</b></summary>
 <br/>
 <div align="center">
 
   <a href="https://github.com/tapeshchavle/loadbalancer">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tapeshchavle&repo=loadbalancer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=00d4ff" alt="Load Balancer" />
+    <img src="https://img.shields.io/badge/📂_View_Repository-loadbalancer-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
   </a>
 
   <br/><br/>
 
-  > **⚡ A production-grade, configurable Load Balancer** in Java / Spring Boot demonstrating deep understanding of **networking, high availability & system scalability**.
+  > **⚡ A production-grade, configurable Load Balancer built from scratch** in Java / Spring Boot demonstrating deep understanding of **networking, high availability, and system scalability**.
   > 
-  > Supports **runtime algorithm selection** via property change or API call — Round Robin, Weighted, Least Connections & more.
+  > Allows **runtime algorithm selection** via a simple property change or REST API call — no restart required:
+  > - **Round Robin** — distributes requests equally across servers
+  > - **Weighted Round Robin** — sends more traffic to higher-capacity servers
+  > - **Least Connections** — routes to the server handling fewest active requests
+  > - **IP Hash** — ensures the same client always reaches the same backend
+  > 
+  > Includes **health checking**, **automatic failover**, and **real-time server pool management**.
 
   <br/>
 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/High_Availability-4CAF50?style=for-the-badge&logo=kubernetes&logoColor=white" alt="HA" />
-  <img src="https://img.shields.io/badge/Scalability-673AB7?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Scalability" />
+  <img src="https://img.shields.io/badge/System_Design-673AB7?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="System Design" />
 
 </div>
 <br/>
 </details>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ PROJECT 5: Google Meet Clone ━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━ PROJECT 5: Google Meet Clone ━━━━━━━━━━━━━━━━━━ -->
 <details>
 <summary><b>📹 05 &nbsp;│&nbsp; Google Meet Clone — Real-Time Video Conferencing with WebRTC</b></summary>
 <br/>
 <div align="center">
 
   <a href="https://github.com/tapeshchavle/webRtc">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tapeshchavle&repo=webRtc&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=00d4ff" alt="WebRTC Google Meet" />
+    <img src="https://img.shields.io/badge/📂_View_Repository-webRtc-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
   </a>
 
   <br/><br/>
 
-  > **🎥 A Google Meet-inspired video conferencing app** built with WebRTC for peer-to-peer real-time communication.
+  > **🎥 A full-featured Google Meet-inspired video conferencing application** built with **WebRTC** for peer-to-peer real-time communication.
   > 
-  > Features **video/audio calls, screen sharing, chat messaging & room management** — demonstrating mastery of real-time protocols, signaling servers & modern web standards.
+  > Features include:
+  > - **HD Video & Audio Calls** — crystal-clear peer-to-peer media streaming
+  > - **Screen Sharing** — share your entire screen or specific application windows
+  > - **Real-Time Chat** — text messaging alongside video calls
+  > - **Room Management** — create, join, and manage meeting rooms with unique codes
+  > - **Signaling Server** — custom-built signaling for WebRTC handshake & ICE candidate exchange
+  > 
+  > Demonstrates mastery of **WebRTC, WebSocket, STUN/TURN servers, SDP negotiation**, and modern real-time web standards.
 
   <br/>
 
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Real--Time-FF4081?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Real-Time" />
-  <img src="https://img.shields.io/badge/P2P-00BCD4?style=for-the-badge&logo=webrtc&logoColor=white" alt="P2P" />
-  <img src="https://img.shields.io/badge/Screen_Share-7B1FA2?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Screen Sharing" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/P2P_Streaming-00BCD4?style=for-the-badge&logo=webrtc&logoColor=white" alt="P2P" />
+  <img src="https://img.shields.io/badge/Screen_Sharing-7B1FA2?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Screen Sharing" />
 
 </div>
 <br/>
 </details>
 
 <br/>
+
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
